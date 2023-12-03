@@ -1,5 +1,6 @@
 package net.adrian.my_first_fabric_mod;
 
+import net.adrian.my_first_fabric_mod.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -20,5 +21,7 @@ public class MyFirstFabricMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+
+		ModItems.registerModItems();
 	}
 }
