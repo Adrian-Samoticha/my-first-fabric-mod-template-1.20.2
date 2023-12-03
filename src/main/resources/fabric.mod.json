@@ -18,6 +18,9 @@
 		"main": [
 			"net.adrian.my_first_fabric_mod.MyFirstFabricMod"
 		],
+		"client": [
+			"net.adrian.my_first_fabric_mod.MyFirstFabricModClient"
+		],
 		"fabric-datagen": [
 			"net.adrian.my_first_fabric_mod.MyFirstFabricModDataGenerator"
 		]
