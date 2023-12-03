@@ -3,15 +3,15 @@
 	"id": "my-first-fabric-mod",
 	"version": "${version}",
 	"name": "My First Fabric Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Just a mod I’m making to figure out how to make Minecraft mods. :)",
 	"authors": [
-		"Me!"
+		"Adrian"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Adrian-Samoticha/my-first-fabric-mod-template-1.20.2"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/my-first-fabric-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
