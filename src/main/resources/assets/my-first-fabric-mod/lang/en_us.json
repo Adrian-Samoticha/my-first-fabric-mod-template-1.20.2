@@ -1,5 +1,6 @@
 {
   "item.my-first-fabric-mod.ruby": "Ruby",
   "item.my-first-fabric-mod.raw_ruby": "Raw Ruby",
+  "block.my-first-fabric-mod.ruby_block": "Block of Ruby",
   "itemgroup.ruby": "Ruby Group"
 }
