@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "my-first-fabric-mod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "my-first-fabric-mod:ruby",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "my-first-fabric-mod:ruby"
+    }
+  },
+  "result": {
+    "item": "my-first-fabric-mod:ruby_block"
+  }
+}
