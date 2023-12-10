@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "my-first-fabric-mod:block/end_stone_ruby_ore"
+  }
+}

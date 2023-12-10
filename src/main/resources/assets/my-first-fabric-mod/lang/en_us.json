@@ -1,7 +1,14 @@
 {
   "item.my-first-fabric-mod.ruby": "Ruby",
   "item.my-first-fabric-mod.raw_ruby": "Raw Ruby",
+
   "block.my-first-fabric-mod.ruby_block": "Block of Ruby",
   "block.my-first-fabric-mod.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.my-first-fabric-mod.ruby_ore": "Ruby Ore",
+  "block.my-first-fabric-mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.my-first-fabric-mod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.my-first-fabric-mod.end_stone_ruby_ore": "End Stone Ruby Ore",
+
   "itemgroup.ruby": "Ruby Group"
 }

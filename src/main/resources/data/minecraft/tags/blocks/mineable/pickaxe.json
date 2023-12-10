@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "my-first-fabric-mod:ruby_block",
+    "my-first-fabric-mod:raw_ruby_block",
+    "my-first-fabric-mod:ruby_ore",
+    "my-first-fabric-mod:deepslate_ruby_ore",
+    "my-first-fabric-mod:nether_ruby_ore",
+    "my-first-fabric-mod:end_stone_ruby_ore"
+  ]
+}
